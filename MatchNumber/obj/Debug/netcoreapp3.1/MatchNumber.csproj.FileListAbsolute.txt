@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\bin\Debug\netcoreapp3.1\MatchNumber.exe
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\bin\Debug\netcoreapp3.1\MatchNumber.deps.json
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\bin\Debug\netcoreapp3.1\MatchNumber.runtimeconfig.json
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\bin\Debug\netcoreapp3.1\MatchNumber.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\bin\Debug\netcoreapp3.1\MatchNumber.dll
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\bin\Debug\netcoreapp3.1\MatchNumber.pdb
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\obj\Debug\netcoreapp3.1\MatchNumber.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\obj\Debug\netcoreapp3.1\MatchNumber.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\obj\Debug\netcoreapp3.1\MatchNumber.AssemblyInfo.cs
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\obj\Debug\netcoreapp3.1\MatchNumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\obj\Debug\netcoreapp3.1\MatchNumber.dll
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\obj\Debug\netcoreapp3.1\MatchNumber.pdb
+C:\Users\HP\source\repos\MatchNumber\MatchNumber\obj\Debug\netcoreapp3.1\MatchNumber.genruntimeconfig.cache
